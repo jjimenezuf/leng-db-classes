@@ -6,7 +6,7 @@ Semana 4
 
 - Se agrego la internaliaztion a la tienda. Ademas, de la connecion a Base de Datos
 
-Semana 06
+Semana 05
 
 - Se utilizo la conexion a la DB para crear unos repositories utilizando la estructura basica y común con la que
   se trabaja los proyectos web basados en Spring.
